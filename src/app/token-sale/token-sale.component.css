@@ -1,0 +1,45 @@
+#token{
+    background-color: #080C49;
+}
+
+.item{
+    box-sizing: border-box;
+    padding: 15px;
+    background-color: #10144F;
+    border-radius: 2%;
+    margin-bottom: 20px;
+}
+
+.right{
+    background-image: url("../../assets/01 2.png");
+    background-position: 20% 20% ;
+    background-size: cover;
+}
+
+.progressBar{
+    height: 20px;
+    margin: auto;
+    margin-top: 12px;
+    width: 100%; 
+}
+
+
+
+.progress-bar{
+    background-color: #EC5B59;
+}
+
+img{
+    width: 100%;
+}
+
+i{
+    font-size: 46px;
+
+}
+
+.tab{
+    tab-size:8;
+    margin-top: 30px;
+
+}

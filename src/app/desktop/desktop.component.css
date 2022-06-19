@@ -1,0 +1,15 @@
+#desktop{
+    background-color: #080C49;
+}
+
+i{
+    font-size: 16px;
+    color: rgba(235, 83, 90, 1);
+}
+
+
+.platforms i{
+    font-size: 24px;
+    color: white;
+    
+}
