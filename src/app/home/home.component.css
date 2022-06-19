@@ -1,11 +1,15 @@
 #home{
-    background-image: url("../../assets/Banner.jpg");
-     background-position: center center;
+    background-color: #080C49;
+
+    background-image: url("../../assets/Banner2.png");
+     background-position: 100% 100%;  
     background-repeat: no-repeat;
-    background-size: 100% 101%; 
-    height: 100vh;
+
+    background-size: cover; 
+    height: 92vh;
 
 }
+
 
 body {
     border:none !important;

@@ -47,3 +47,8 @@ a{
 a:hover{
     color: rgba(236, 132, 77, 1);
 }
+
+.bar{
+    box-sizing: border-box;
+    
+}

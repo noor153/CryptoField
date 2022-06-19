@@ -27,15 +27,15 @@
               "src/assets"
             ],
             "styles": [
-              "/Users/nooreldeen/Desktop/Web/Svc-sa Task/CryptoField/node_modules/bootstrap/dist/css/bootstrap.min.css",
-              "/Users/nooreldeen/Desktop/Web/Svc-sa Task/CryptoField/node_modules/font-awesome/css/font-awesome.min.css",
-              "/Users/nooreldeen/Desktop/Web/Svc-sa Task/CryptoField/node_modules/bootstrap-icons/font/bootstrap-icons.css",
+              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "./node_modules/font-awesome/css/font-awesome.min.css",
+              "./node_modules/bootstrap-icons/font/bootstrap-icons.css",
               "src/styles.css"
             ],
             "scripts": [
-              "/Users/nooreldeen/Desktop/Web/Svc-sa Task/CryptoField/node_modules/jquery/dist/jquery.min.js",
-              "/Users/nooreldeen/Desktop/Web/Svc-sa Task/CryptoField/node_modules/popper.js/dist/umd/popper.min.js",
-              "/Users/nooreldeen/Desktop/Web/Svc-sa Task/CryptoField/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
+              "./node_modules/jquery/dist/jquery.min.js",
+              "./node_modules/popper.js/dist/umd/popper.min.js",
+              "./node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"
 
             ]
           },

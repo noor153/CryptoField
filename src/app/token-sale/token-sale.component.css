@@ -4,10 +4,11 @@
 
 .item{
     box-sizing: border-box;
-    padding: 15px;
+    padding: 3vh;
     background-color: #10144F;
-    border-radius: 2%;
-    margin-bottom: 20px;
+    border-radius: 13px;
+    border: #080C49 solid 10px;
+    
 }
 
 .right{
