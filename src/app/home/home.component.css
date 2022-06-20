@@ -2,14 +2,12 @@
     background-color: #080C49;
 
     background-image: url("../../assets/Banner2.png");
-     background-position: 100% 100%;  
+     background-position: 90% 90%;  
     background-repeat: no-repeat;
-
     background-size: cover; 
-    height: 92vh;
+
 
 }
-
 
 body {
     border:none !important;
@@ -32,7 +30,6 @@ body {
 .bttn2{
     background-color: #4153E3;
     color: white;
-    padding-right: 20px  !important;
-    padding-left: 20px  !important;
+    padding-right: 20px  ;
+    padding-left: 20px  ;
 }
-

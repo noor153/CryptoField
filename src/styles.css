@@ -16,3 +16,24 @@ body {
 .btn:hover{
 color: white !important;
 }
+
+
+.hh{
+    
+    font-size: 4vw !important;
+
+}
+
+/* 
+@media screen and (min-width: 601px) {
+     {
+      font-size: 380px;
+    }
+  } */
+  
+  /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
+  @media screen and (max-width: 600px) {
+    .hh {
+        font-size: 7vw !important;
+    }
+  }

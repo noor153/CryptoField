@@ -41,7 +41,7 @@
 
 .road-map:first-child::before {
   content: "";
-  height: 7px;
+  height: 8px;
   width: 50%;
   top: -7px;
   left: 0;
@@ -66,9 +66,9 @@
   
 .road-map:last-child::before {
     content: "";
-    height: 7px;
+    height: 9px;
     width: 50%;
-    bottom: -7px;
+    bottom: -8px;
     right: 0;
     background-color: #080C49;
     position: absolute;
