@@ -48,3 +48,17 @@ i{
 .x{
     --bs-gutter-x: 0rem !important;
 }
+
+@media screen and (max-width:400px) {
+    .item{
+        box-sizing: border-box;
+        height: 160px;
+        background-color: #10144F;
+        border-radius: 13px;
+        border: #080C49 solid 10px;
+        padding-top: 25px;
+
+
+        
+    }
+}

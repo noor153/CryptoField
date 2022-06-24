@@ -7,7 +7,6 @@
     padding: 100px;
 }
 
-
 .h{
 
   width: 84%;
@@ -19,7 +18,7 @@
   border-top: 7px solid;
   border-bottom: 7px solid;
   border-color: rgba(235, 83, 90, 1) !important;
-  margin: -7px;; 
+  margin: -7px;
   padding: 30px;
 }
 
@@ -96,3 +95,17 @@
 
 
 } */
+
+@media screen and (max-width:400px) {
+  .h{
+
+    width: 95%;
+    /* margin: auto; */
+    
+  }
+  .road-map {
+
+    margin: -7px -7px;
+    padding: 18px;
+  }
+}
